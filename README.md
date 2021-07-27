@@ -1,2 +1,2 @@
 # Intro-Ordered-Arrays-PHP
-Introduction to Ordered Arrays ni PHP 
+Introduction to Ordered Arrays in PHP 
